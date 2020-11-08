@@ -1,8 +1,6 @@
-# 3.Hafta Ödevi
+# Tic Tac Toe Oyunu
 
-## Tic Tac Toe Oyunu
-
-2 kişinin oynayabileceği bir Tic Tac Toe oyunu yapmanızı bekliyoruz. Tasarımı size kalmakla birlikte referans olması açısından bir görsel ekledik.
+2 kişinin oynayabileceği bir Tic Tac Toe oyunu.
 
 ### Oyun Akışı
 - Kullanıcı hamlelerinden birisi "X" ile ifade edilirken, diğeri "O" ile ifade edilecek.
@@ -10,15 +8,24 @@
 - Dikey, yatay veya çapraz olarak aynı tipteki ikonları sıralayabilen oyuncu oyunu kazanır.
 - Kazanma, kaybetme ve beraberlik durumlarında sonuç ekranda gösterilecek. 
 
-Detaylı oyun kuralları için [tıklayabilirsiniz](https://www.exploratorium.edu/brain_explorer/tictactoe.html). 
+### Kullanılan Teknolojiler
 
-![tic-tac-toe-reference-image](image/tic-tac-toe-reference.jpg)
+- ReactJS
+- Bootstrap
+
 
 ## Kurulum
 
 Projeyi lokalde çalıştırabilmek için: 
 
-* Repo'yu klonlayın `git clone https://github.com/ReactBootcamp66/tic-tac-toe-odevi.git`
+* Repo'yu klonlayın `git clone https://github.com/sulesavas/tic-tac-toe.git`
 * Komutu çalıştırın `cd tic-tac-toe`
 * Komutu çalıştırın `npm install` veya `yarn install`
 * Komutu çalıştırın `npm start` veya `yarn install` 
+
+
+### Ekran Görüntüleri
+
+<div align="center">
+  <img width="600" src="/screenshot.png">
+</div>
