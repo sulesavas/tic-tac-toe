@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.square {
+  height:75px!important;
+  width:75px!important;
+  margin:3px;
+  font-size: xx-large;
+}
+
+.scoreBoardText{
+  text-align: center;
+  font-size: 25px;
+}
+
+.player{
+  font-size: 25px;
+}
+
+.pageTitle{
+  text-align: center;
+  font-size: 35px;
+}
+
+.score{
+  font-size: 40px;
+  height: 60px;
+  width: 60px;
+}
+
+.newGameButton{
+text-align: center;
+margin-top: 200px;
+margin-bottom: 200px;
+
+}
+
+
+
+.boardCard{
+ background-color:wheat;
+}
