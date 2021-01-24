@@ -2,6 +2,9 @@
 
 2 kişinin oynayabileceği bir Tic Tac Toe oyunu.
 
+### Demo Sitesi
+ Adres: https://sulesavas-tictoctoe.netlify.app
+
 ### Oyun Akışı
 - Kullanıcı hamlelerinden birisi "X" ile ifade edilirken, diğeri "O" ile ifade edilecek.
 - Tıklama aksiyonunda sıralamaya göre "X" veya "O" ekleme işlemi yapılacak.
